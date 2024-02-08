@@ -13,7 +13,6 @@ A Single Page App! It involves crafting two dynamic pages: the vibrant **Home** 
 <br>Watch your app come to life in development mode at [Local Host](http://localhost:3000).
 
 ### :mag: Test Your Creations!
-
 Put your creations to the test with [npm test].
 Launch the test runner in interactive watch mode for seamless testing.
 

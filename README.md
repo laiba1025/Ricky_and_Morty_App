@@ -3,9 +3,9 @@
 
 
 A Single Page App! It involves crafting two dynamic pages: the vibrant **Home** and the intriguing **Profile**. 
-<br>On the Home page, unleashing the creativity by designing a visually stunning table, brimming with character—literally! Populated with data fetched from the Rick & Morty API's Character endpoint, showcasing their unique Avatar, Name, Species, and Status.
-<br>But wait, there's more! Delve deeper into the characters' worlds with just a click. Navigate to the Profile page, where fascinating character details await, sourced directly from the API. And fear not, for the users can seamlessly return to the main table with the comforting presence of a Back button.
-<br>*Get ready to captivate and immerse with this captivating journey through the multiverse of Rick & Morty!*
+<br>On the Home page, unleashing the creativity by designing a visually stunning table, brimming with character—literally! Populated with data fetched from the Rick & Morty API's Character endpoint, showcasing their unique Avatar, Name, Species, and Status. :octocat:
+<br>But wait, there's more! :rocket: Delve deeper into the characters' worlds with just a click. Navigate to the Profile page, where fascinating character details await, sourced directly from the API. And fear not, for the users can seamlessly return to the main table with the comforting presence of a Back button. :space_invader:
+<br>*Get ready to captivate and immerse with this captivating journey through the multiverse of Rick & Morty!* :ghost:
 
 
 ## Available Scripts

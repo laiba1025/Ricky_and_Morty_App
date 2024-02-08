@@ -8,7 +8,10 @@ A Single Page App! It involves crafting two dynamic pages: the vibrant **Home** 
 <br>*Get ready to captivate and immerse with this captivating journey through the multiverse of Rick & Morty!* :ghost:
 
 
-###  :rocket: Launch Your Adventure!
+## Test Cases
+## Homepage
+![image](https://github.com/laiba1025/single-page-app/assets/123197772/40393289-f1a1-484c-be36-bc9e9acf9641)
+
 <br>Start your journey by running `npm start` in the project directory.
 <br>Watch your app come to life in development mode at [Local Host](http://localhost:3000).
 

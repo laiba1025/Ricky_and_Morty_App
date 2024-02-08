@@ -8,22 +8,14 @@ A Single Page App! It involves crafting two dynamic pages: the vibrant **Home** 
 <br>*Get ready to captivate and immerse with this captivating journey through the multiverse of Rick & Morty!* :ghost:
 
 
-##Launch Your Adventure!
+###  :rocket: Launch Your Adventure!
 <br>Start your journey by running `npm start` in the project directory.
 <br>Watch your app come to life in development mode at [Local Host](http://localhost:3000).
 
-### `npm start`
+### :mag: Test Your Creations!
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Put your creations to the test with [npm test].
+Launch the test runner in interactive watch mode for seamless testing.
 
 ### `npm run build`
 

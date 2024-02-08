@@ -1,6 +1,7 @@
 # Ricky and Morty Characters
 
-![image](https://github.com/laiba1025/single-page-app/assets/123197772/ea480472-6d4f-471c-a918-a8ba3d69402d)
+![image](https://github.com/laiba1025/single-page-app/assets/123197772/56654014-fdc2-4d89-9424-8e374f8d5355)
+
 
 ## Available Scripts
 

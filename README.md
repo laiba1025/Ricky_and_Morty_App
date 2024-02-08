@@ -8,9 +8,9 @@ A Single Page App! It involves crafting two dynamic pages: the vibrant **Home** 
 <br>*Get ready to captivate and immerse with this captivating journey through the multiverse of Rick & Morty!* :ghost:
 
 
-## Available Scripts
-
-In the project directory, you can run:
+##Launch Your Adventure!
+<br>Start your journey by running `npm start` in the project directory.
+<br>Watch your app come to life in development mode at [Local Host](http://localhost:3000).
 
 ### `npm start`
 

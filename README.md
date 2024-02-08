@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Ricky and Morty Characters
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![image](https://github.com/laiba1025/single-page-app/assets/123197772/ea480472-6d4f-471c-a918-a8ba3d69402d)
 
 ## Available Scripts
 

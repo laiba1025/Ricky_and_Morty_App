@@ -2,7 +2,7 @@
 ![Ricky ](https://github.com/laiba1025/single-page-app/assets/123197772/14193ddb-d008-419c-ae77-7c686599104d)
 
 A Single Page App! It involves crafting two dynamic pages: the vibrant **Home** and the intriguing **Profile**. 
-On the Home page, unleashing the creativity by designing a visually stunning table, brimming with character—literally! Populated with data fetched from the Rick & Morty API's Character endpoint, showcasing their unique Avatar, Name, Species, and Status. But wait, there's more! Delve deeper into the characters' worlds with just a click. Navigate to the Profile page, where fascinating character details await, sourced directly from the API. And fear not, for the users can seamlessly return to the main table with the comforting presence of a Back button. Get ready to captivate and immerse with this captivating journey through the multiverse of Rick & Morty!
+<br>On the Home page, unleashing the creativity by designing a visually stunning table, brimming with character—literally! Populated with data fetched from the Rick & Morty API's Character endpoint, showcasing their unique Avatar, Name, Species, and Status. But wait, there's more! Delve deeper into the characters' worlds with just a click. Navigate to the Profile page, where fascinating character details await, sourced directly from the API. And fear not, for the users can seamlessly return to the main table with the comforting presence of a Back button. Get ready to captivate and immerse with this captivating journey through the multiverse of Rick & Morty!</>
 
 
 ## Available Scripts

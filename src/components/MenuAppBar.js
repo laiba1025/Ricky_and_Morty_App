@@ -29,8 +29,8 @@ export default function MenuAppBar() {
   };
 
   return (
-    <Box sx={{ flexGrow: 1 }}>
-      <AppBar position="static">
+    <Box sx={{ flexGrow: 1, backgroundColor: '#343538' }}>
+      <AppBar position="static" sx={{ backgroundColor: '#343538' }}>
         <Toolbar>
           <IconButton
             size="large"
@@ -42,7 +42,7 @@ export default function MenuAppBar() {
             <MenuIcon />
           </IconButton>
           <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-            Rick and Morty Characters
+            Rick and Morty
           </Typography>
           <div>
             {auth && (
@@ -85,6 +85,14 @@ export default function MenuAppBar() {
                     checked={auth}
                     onChange={handleChange}
                     aria-label="login switch"
+                    sx={{
+                      '& .MuiSwitch-thumb': {
+                        color: '#fff', 
+                      },
+                      '& .MuiSwitch-track': {
+                        backgroundColor: '#000', 
+                      },
+                    }}
                   />
                 }
                 label={auth ? 'Logout' : 'Login'}

@@ -19,8 +19,18 @@ Verify that the Home component renders correctly without crashing.
 ### Expected Outcome:
 The Home component renders successfully without crashing.
 
-## Profile Page
-![image](https://github.com/laiba1025/single-page-app/assets/123197772/60b41280-b436-4922-b19e-9b87a0df408d)
+## 2. API Data Fetch Test:
+
+## Description: 
+Test that the Home component fetches data from the Rick & Morty API successfully.
+
+### Steps:
+* Mock the API call to return a predefined set of data.
+* Mount the Home component.
+* Check if the fetched data is displayed in the table.
+
+### Expected Outcome:
+The Home component fetches data from the API and displays it in the table.
 
 
 ### `npm run build`

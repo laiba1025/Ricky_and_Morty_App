@@ -19,7 +19,7 @@ The Home component renders successfully without crashing.
 ## 2. API Data Fetch Test:
 ![image](https://github.com/laiba1025/single-page-app/assets/123197772/aed97363-41f2-4bfa-8da0-dde1ac0c4a49)
 
-## Description: 
+### Description: 
 Test that the Home component fetches data from the Rick & Morty API successfully.
 
 ### Steps:
@@ -33,7 +33,7 @@ The Home component fetches data from the API and displays it in the table.
 
 ## 3. Character Name Click Navigation Test:
 ![image](https://github.com/laiba1025/single-page-app/assets/123197772/32233c04-1035-4b45-8c1a-07b41aa378dc)
-## Description: 
+### Description: 
 Test that clicking on a character's name in the table navigates to the correct Profile page.
 ### Steps:
 * Mock the API call to return a predefined set of data.
@@ -55,7 +55,7 @@ Test the search functionality to filter characters by name.
 * The table updates dynamically to show only characters whose names match the search query.
 * Characters not matching the search query are hidden from the table.
 
-### 5. Pagination Test (Bonus Task):
+## 5. Pagination Test (Bonus Task):
 ![image](https://github.com/laiba1025/single-page-app/assets/123197772/8f49dd48-a42b-41b7-babc-4c3c7767d9cf)
 ### Description: 
 Test the pagination functionality to navigate through multiple pages of characters.

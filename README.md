@@ -13,7 +13,7 @@ Verify that the Home component renders correctly without crashing.
 ### Steps
 * Mount the Home component.
 * Check if it renders without any errors.
-### Expected Outcome:
+### Expected Outcome
 The Home component renders successfully without crashing.
 
 ## 2. API Data Fetch Test

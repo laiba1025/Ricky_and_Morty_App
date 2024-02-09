@@ -46,6 +46,7 @@ function TablePaginationActions(props) {
         onClick={handleFirstPageButtonClick}
         disabled={page === 0}
         aria-label="first page"
+        style={{ color: '#ffffff' }} // Set color to white
       >
         {theme.direction === 'rtl' ? <LastPageIcon /> : <FirstPageIcon />}
       </IconButton>
@@ -53,6 +54,7 @@ function TablePaginationActions(props) {
         onClick={handleBackButtonClick}
         disabled={page === 0}
         aria-label="previous page"
+        style={{ color: '#ffffff' }} // Set color to white
       >
         {theme.direction === 'rtl' ? <KeyboardArrowRight /> : <KeyboardArrowLeft />}
       </IconButton>
@@ -60,6 +62,7 @@ function TablePaginationActions(props) {
         onClick={handleNextButtonClick}
         disabled={page >= Math.ceil(count / rowsPerPage) - 1}
         aria-label="next page"
+        style={{ color: '#ffffff' }} // Set color to white
       >
         {theme.direction === 'rtl' ? <KeyboardArrowLeft /> : <KeyboardArrowRight />}
       </IconButton>
@@ -67,6 +70,7 @@ function TablePaginationActions(props) {
         onClick={handleLastPageButtonClick}
         disabled={page >= Math.ceil(count / rowsPerPage) - 1}
         aria-label="last page"
+        style={{ color: '#ffffff' }} // Set color to white
       >
         {theme.direction === 'rtl' ? <FirstPageIcon /> : <LastPageIcon />}
       </IconButton>
@@ -114,7 +118,8 @@ const Home = () => {
   };
 
   return (
-    <div style={{ padding: '20px' }}>
+    <div style={{ padding: '20px', backgroundImage: 'url("/background.png")', backgroundSize: 'cover', backgroundPosition: 'center' }}>
+
       <Header />
       <div style={{ display: 'flex', justifyContent: 'flex-end', width: '30%', margin: '1%' }}>
         <input
@@ -136,12 +141,12 @@ const Home = () => {
 
       <TableContainer component={Paper} style={{ marginTop: '20px', background: '#696C75'}}>
         <Table aria-label="custom pagination table">
-          <TableHead style={{ background: '#343538', color: '#000' }}>
+          <TableHead style={{ background: '#343538', color: '#fff' }}>
             <TableRow>
-              <TableCell style={{ fontWeight: 'bold', fontSize: '16px', color: '#fff' }}>Avatar</TableCell>
-              <TableCell style={{ fontWeight: 'bold', fontSize: '16px', color: '#fff' }}>Name</TableCell>
-              <TableCell style={{ fontWeight: 'bold', fontSize: '16px', color: '#fff' }}>Species</TableCell>
-              <TableCell style={{ fontWeight: 'bold', fontSize: '16px', color: '#fff' }}>Status</TableCell>
+              <TableCell style={{ fontWeight: 'bold', fontSize: '16px' }}>Avatar</TableCell>
+              <TableCell style={{ fontWeight: 'bold', fontSize: '16px' }}>Name</TableCell>
+              <TableCell style={{ fontWeight: 'bold', fontSize: '16px' }}>Species</TableCell>
+              <TableCell style={{ fontWeight: 'bold', fontSize: '16px' }}>Status</TableCell>
             </TableRow>
           </TableHead>
 
@@ -154,13 +159,13 @@ const Home = () => {
               <TableCell component="th" scope="row">
                 <img src={character.image} alt={character.name} width="50" height="50" />
               </TableCell>
-              <TableCell style={{ fontSize: '14px', color: '#000' }}>
+              <TableCell style={{ fontSize: '14px' }}>
                 <Link to={`/profile/${character.id}`} style={{ textDecoration: 'underline', color: '#000' }}>
                   {character.name}
                 </Link>
               </TableCell>
-              <TableCell style={{ fontSize: '14px', color: '#000' }}>{character.species}</TableCell>
-              <TableCell style={{ fontSize: '14px', color: '#000' }}>{character.status}</TableCell>
+              <TableCell style={{ fontSize: '14px' }}>{character.species}</TableCell>
+              <TableCell style={{ fontSize: '14px' }}>{character.status}</TableCell>
             </TableRow>
             ))}
           </TableBody>
@@ -175,7 +180,8 @@ const Home = () => {
         rowsPerPage={rowsPerPage}
         onRowsPerPageChange={handleChangeRowsPerPage}
         ActionsComponent={TablePaginationActions}
-        style={{ marginTop: '20px' }}
+        style={{ marginTop: '20px', color: '#ffffff' }} // Set color to white
+        labelRowsPerPage={<span style={{ color: '#ffffff' }}>Rows per page:</span>} // Set label color to white
       />
     </div>
   );

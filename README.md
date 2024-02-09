@@ -1,4 +1,4 @@
-![image](https://github.com/laiba1025/single-page-app/assets/123197772/147795fd-2c87-4077-a86d-334edf753ff5)# Ricky and Morty Characters
+# Ricky and Morty Characters
 ![151773143-a11d12e4-810e-4940-8e68-507d3318a0c3](https://github.com/laiba1025/single-page-app/assets/123197772/6e1340e9-e061-4563-9244-c45f5a5e2b3a)
 
 

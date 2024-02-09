@@ -1,23 +1,23 @@
-# Getting Started with Create React App
+# Ricky and Morty Characters
+![151773143-a11d12e4-810e-4940-8e68-507d3318a0c3](https://github.com/laiba1025/single-page-app/assets/123197772/6e1340e9-e061-4563-9244-c45f5a5e2b3a)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+A Single Page App! It involves crafting two dynamic pages: the vibrant **Home** and the intriguing **Profile**. 
+<br>On the Home page, unleashing the creativity by designing a visually stunning table, brimming with character—literally! Populated with data fetched from the Rick & Morty API's Character endpoint, showcasing their unique Avatar, Name, Species, and Status. :octocat:
+<br>But wait, there's more! :rocket: Delve deeper into the characters' worlds with just a click. Navigate to the Profile page, where fascinating character details await, sourced directly from the API. And fear not, for the users can seamlessly return to the main table with the comforting presence of a Back button. :space_invader:
+<br>*Get ready to captivate and immerse with this captivating journey through the multiverse of Rick & Morty!* :ghost:
 
-In the project directory, you can run:
 
-### `npm start`
+## Test Cases
+## Homepage
+![image](https://github.com/laiba1025/single-page-app/assets/123197772/40393289-f1a1-484c-be36-bc9e9acf9641)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<br>Start your journey by running `npm start` in the project directory.
+<br>Watch your app come to life in development mode at [Local Host](http://localhost:3000).
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### :mag: Test Your Creations!
+Put your creations to the test with [npm test].
+Launch the test runner in interactive watch mode for seamless testing.
 
 ### `npm run build`
 

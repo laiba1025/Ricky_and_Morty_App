@@ -35,17 +35,14 @@ The Home component fetches data from the API and displays it in the table.
 
 
 ## 3. Character Name Click Navigation Test:
-
+![image](https://github.com/laiba1025/single-page-app/assets/123197772/32233c04-1035-4b45-8c1a-07b41aa378dc)
 ## Description: 
 Test that clicking on a character's name in the table navigates to the correct Profile page.
-
 ### Steps:
-
 * Mock the API call to return a predefined set of data.
 * Mount the Home component.
 * Simulate a click on a character's name.
 ### Expected Outcome:
-
 <br> The application navigates to the Profile page for the selected character.
 <br> The URL changes to reflect the correct character ID.
 

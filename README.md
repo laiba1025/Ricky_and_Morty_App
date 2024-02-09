@@ -34,6 +34,21 @@ Test that the Home component fetches data from the Rick & Morty API successfully
 The Home component fetches data from the API and displays it in the table.
 
 
+## 3. Character Name Click Navigation Test:
+
+## Description: 
+Test that clicking on a character's name in the table navigates to the correct Profile page.
+
+### Steps:
+
+* Mock the API call to return a predefined set of data.
+* Mount the Home component.
+* Simulate a click on a character's name.
+### Expected Outcome:
+
+<br> The application navigates to the Profile page for the selected character.
+<br> The URL changes to reflect the correct character ID.
+
 ### `npm run build`
 
 Builds the app for production to the `build` folder.\

@@ -17,8 +17,9 @@ A Single Page App! It involves crafting two dynamic pages: the vibrant **Home** 
 Verify that the Home component renders correctly without crashing.
 
 # Steps:
-Markup : * Mount the Home component.
-         * Check if it renders without any errors.
+ Markup : * Mount the Home component.
+          * Check if it renders without any errors.
+ 
 <br>Expected Outcome:
 <br>The Home component renders successfully without crashing.
 

@@ -55,7 +55,7 @@ Test the search functionality to filter characters by name.
 * The table updates dynamically to show only characters whose names match the search query.
 * Characters not matching the search query are hidden from the table.
 
-### Pagination Test (Bonus Task):
+### 5. Pagination Test (Bonus Task):
 ![image](https://github.com/laiba1025/single-page-app/assets/123197772/8f49dd48-a42b-41b7-babc-4c3c7767d9cf)
 ### Description: 
 Test the pagination functionality to navigate through multiple pages of characters.

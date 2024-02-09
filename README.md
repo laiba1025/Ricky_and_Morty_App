@@ -43,7 +43,7 @@ Test that clicking on a character's name in the table navigates to the correct P
 * The application navigates to the Profile page for the selected character.
 * The URL changes to reflect the correct character ID.
 
-# 4. Search Functionality Test:
+## 4. Search Functionality Test:
 ![image](https://github.com/laiba1025/single-page-app/assets/123197772/70348f74-ca79-43f8-a983-28487925b780)
 ## Description: 
 Test the search functionality to filter characters by name.

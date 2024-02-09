@@ -15,9 +15,9 @@ A Single Page App! It involves crafting two dynamic pages: the vibrant **Home** 
 <br>Start your journey by running `npm start` in the project directory.
 <br>Watch your app come to life in development mode at [Local Host](http://localhost:3000).
 
-### :mag: Test Your Creations!
-Put your creations to the test with [npm test].
-Launch the test runner in interactive watch mode for seamless testing.
+## Profile Page
+![image](https://github.com/laiba1025/single-page-app/assets/123197772/60b41280-b436-4922-b19e-9b87a0df408d)
+
 
 ### `npm run build`
 

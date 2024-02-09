@@ -56,15 +56,13 @@ Test the search functionality to filter characters by name.
 * Characters not matching the search query are hidden from the table.
 
 ### Pagination Test (Bonus Task):
-
+![image](https://github.com/laiba1025/single-page-app/assets/123197772/8f49dd48-a42b-41b7-babc-4c3c7767d9cf)
 ### Description: 
 Test the pagination functionality to navigate through multiple pages of characters.
-
 ### Steps:
 * Mock the API call to return a large dataset with pagination.
 * Mount the Home component.
 * Click on the pagination controls to navigate between pages.
-
 ### Expected Outcome:
 * The table updates to display characters from the next or previous page.
 * Pagination controls correctly reflect the current page and total number of pages.

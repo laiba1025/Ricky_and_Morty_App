@@ -46,15 +46,17 @@ Test that clicking on a character's name in the table navigates to the correct P
 <br> The application navigates to the Profile page for the selected character.
 <br> The URL changes to reflect the correct character ID.
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# 4. Search Functionality Test:
+![image](https://github.com/laiba1025/single-page-app/assets/123197772/c8054d82-0f37-419e-96f5-852b322fa52f)
+## Description: 
+Test the search functionality to filter characters by name.
+### Steps:
+* Mount the Home component.
+* Enter a search query in the input field.
+* Check if the table updates to display only characters whose names contain the search query.
+### Expected Outcome:
+* The table updates dynamically to show only characters whose names match the search query.
+* Characters not matching the search query are hidden from the table.
 
 ### `npm run eject`
 

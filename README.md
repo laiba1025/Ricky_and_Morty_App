@@ -1,7 +1,4 @@
 # Ricky and Morty Characters
-![151773143-a11d12e4-810e-4940-8e68-507d3318a0c3](https://github.com/laiba1025/single-page-app/assets/123197772/6e1340e9-e061-4563-9244-c45f5a5e2b3a)
-
-
 A Single Page App! It involves crafting two dynamic pages: the vibrant **Home** and the intriguing **Profile**. 
 <br>On the Home page, unleashing the creativity by designing a visually stunning table, brimming with character—literally! Populated with data fetched from the Rick & Morty API's Character endpoint, showcasing their unique Avatar, Name, Species, and Status. :octocat:
 <br>But wait, there's more! :rocket: Delve deeper into the characters' worlds with just a click. Navigate to the Profile page, where fascinating character details await, sourced directly from the API. And fear not, for the users can seamlessly return to the main table with the comforting presence of a Back button. :space_invader:

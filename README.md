@@ -8,20 +8,20 @@ A Single Page App! It involves crafting two dynamic pages: the vibrant **Home** 
 <br>*Get ready to captivate and immerse with this captivating journey through the multiverse of Rick & Morty!* :ghost:
 
 
-## Test Cases
+# Test Cases
 ## Homepage
 ![image](https://github.com/laiba1025/single-page-app/assets/123197772/40393289-f1a1-484c-be36-bc9e9acf9641)
-# Rendering Test:
+## Rendering Test:
 
-# Description:
+## Description:
 Verify that the Home component renders correctly without crashing.
 
 # Steps:
- <br> Mount the Home component.
- <br> Check if it renders without any errors.
+* Mount the Home component.
+* Check if it renders without any errors.
  
-<br>Expected Outcome:
-<br>The Home component renders successfully without crashing.
+### Expected Outcome:
+The Home component renders successfully without crashing.
 
 ## Profile Page
 ![image](https://github.com/laiba1025/single-page-app/assets/123197772/60b41280-b436-4922-b19e-9b87a0df408d)

@@ -9,7 +9,7 @@ A Single Page App! It involves crafting two dynamic pages: the vibrant **Home** 
 
 
 # Test Cases
-## Rendering Test:
+## 1. Rendering Test:
 ![image](https://github.com/laiba1025/single-page-app/assets/123197772/40393289-f1a1-484c-be36-bc9e9acf9641)
 ## Description:
 Verify that the Home component renders correctly without crashing.
